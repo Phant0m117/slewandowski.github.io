@@ -1,2 +1,2 @@
-# slewandowski1107.github.io
+# slewandowski.github.io
 Personal Portfolio Website
